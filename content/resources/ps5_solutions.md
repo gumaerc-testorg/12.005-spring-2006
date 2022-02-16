@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains Solutions of problem set 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/76869816214eef815d9ad04ee4f3e05c_ps5_solutions.pdf
+file: /media/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/76869816214eef815d9ad04ee4f3e05c_ps5_solutions.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps5_solutions.pdf
 uid: 76869816-214e-ef81-5d9a-d04ee4f3e05c
