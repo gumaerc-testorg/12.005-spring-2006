@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section provides information about the prerequisites, supplementary
+  texts required for the course, and the grading criteria for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

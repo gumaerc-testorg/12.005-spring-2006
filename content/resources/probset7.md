@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/ace6d405732a6bb69ce13242db6b8e31_probset7.pdf
+file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/ace6d405732a6bb69ce13242db6b8e31_probset7.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
