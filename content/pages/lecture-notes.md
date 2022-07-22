@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Lecture notes section lists the lecture files as per the topics covered
+  in the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 556c63fc-b90f-9c17-add0-463a86844cdb
 ---
@@ -22,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course Overview ([PDF]({{< baseurl >}}/resources/lec1))
+Course Overview ({{% resource_link 514aaf43-8913-6392-0003-616217ff27b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +36,7 @@ Course Overview ([PDF]({{< baseurl >}}/resources/lec1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Tractions ([PDF]({{< baseurl >}}/resources/lec2))
+Tractions ({{% resource_link c39fea48-600d-2b28-a7d4-c667999e642e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ Tractions ([PDF]({{< baseurl >}}/resources/lec2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Stress Tensor ([PDF]({{< baseurl >}}/resources/lec3))
+Stress Tensor ({{% resource_link 5005ac6a-ec16-d031-bffb-d361c792ca70 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +54,7 @@ Stress Tensor ([PDF]({{< baseurl >}}/resources/lec3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Stress Tensor (cont.) ([PDF]({{< baseurl >}}/resources/lec4))
+Stress Tensor (cont.) ({{% resource_link 659ee9f8-87b3-60eb-cdd6-84862a2dd64c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ Stress Tensor (cont.) ([PDF]({{< baseurl >}}/resources/lec4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Stress Tensor in Different Coordinate Systems ([PDF]({{< baseurl >}}/resources/lec5))
+Stress Tensor in Different Coordinate Systems ({{% resource_link 908c9d2f-7ad9-d7b0-099f-6a540e59b3f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ Stress Tensor in Different Coordinate Systems ([PDF]({{< baseurl >}}/resources/l
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Pore Fluid Pressure ([PDF]({{< baseurl >}}/resources/lec6))
+Pore Fluid Pressure ({{% resource_link 52e738d6-c006-51c1-faa7-9eae4ac14caf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ Pore Fluid Pressure ([PDF]({{< baseurl >}}/resources/lec6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Newton's Second Law ([PDF]({{< baseurl >}}/resources/lec7))
+Newton's Second Law ({{% resource_link 54b8e3e5-32ed-8568-9f72-4c47a481246b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ Newton's Second Law ([PDF]({{< baseurl >}}/resources/lec7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Stress in the Earth ([PDF]({{< baseurl >}}/resources/lec8))
+Stress in the Earth ({{% resource_link 4f125fe3-22d1-0647-f811-482dadf4968c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Stress in the Earth ([PDF]({{< baseurl >}}/resources/lec8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Stress Rotation ([PDF]({{< baseurl >}}/resources/lec9))
+Stress Rotation ({{% resource_link 0193a515-5d23-8472-924c-2b5ccbddb7fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +108,7 @@ Stress Rotation ([PDF]({{< baseurl >}}/resources/lec9))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Sandbox Tectonics ([PDF]({{< baseurl >}}/resources/lec10))
+Sandbox Tectonics ({{% resource_link 73f410da-0589-c8b1-758a-841bdcff4152 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Sandbox Tectonics ([PDF]({{< baseurl >}}/resources/lec10))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Sandbox Tectonics - Simple Theory ([PDF]({{< baseurl >}}/resources/lec11))
+Sandbox Tectonics - Simple Theory ({{% resource_link ac4ab157-0bc6-8428-afbc-44c482f900c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +126,7 @@ Sandbox Tectonics - Simple Theory ([PDF]({{< baseurl >}}/resources/lec11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Displacement Gradients ([PDF]({{< baseurl >}}/resources/lec12))
+Displacement Gradients ({{% resource_link 68d14b15-ed10-70aa-0b0c-77aa80699142 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +135,7 @@ Displacement Gradients ([PDF]({{< baseurl >}}/resources/lec12))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Measurement of Displacement Gradient Tensor ([PDF]({{< baseurl >}}/resources/lec13))
+Measurement of Displacement Gradient Tensor ({{% resource_link 495dc1c3-f2a8-32ef-308e-4d06cb5f68b5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +144,7 @@ Measurement of Displacement Gradient Tensor ([PDF]({{< baseurl >}}/resources/lec
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Finite Strain ([PDF]({{< baseurl >}}/resources/lec14))
+Finite Strain ({{% resource_link 08ab6341-1aec-9ffb-9f29-da5944896cd4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +153,7 @@ Finite Strain ([PDF]({{< baseurl >}}/resources/lec14))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Elasticity ([PDF]({{< baseurl >}}/resources/lec15))
+Elasticity ({{% resource_link 9af86e3f-c516-7c7c-d926-419fabd1cedc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +162,7 @@ Elasticity ([PDF]({{< baseurl >}}/resources/lec15))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Simple Example: Uniaxial Strain ([PDF]({{< baseurl >}}/resources/lec16))
+Simple Example: Uniaxial Strain ({{% resource_link 1071a858-471a-54fb-c610-8d1bb801486c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +171,7 @@ Simple Example: Uniaxial Strain ([PDF]({{< baseurl >}}/resources/lec16))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Special Cases ([PDF]({{< baseurl >}}/resources/lec17))
+Special Cases ({{% resource_link 1f0479e4-4b22-5cd4-4b4d-a365a62b0145 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +180,7 @@ Special Cases ([PDF]({{< baseurl >}}/resources/lec17))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Dislocation in Elastic Halfspace Model of the Earthquake Cycle ([PDF]({{< baseurl >}}/resources/lec18))
+Dislocation in Elastic Halfspace Model of the Earthquake Cycle ({{% resource_link 16cd4689-50d8-13dc-d12f-b170c96bbfeb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +189,7 @@ Dislocation in Elastic Halfspace Model of the Earthquake Cycle ([PDF]({{< baseur
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Stress and Strain from a Screw Dislocation ([PDF]({{< baseurl >}}/resources/lec19))
+Stress and Strain from a Screw Dislocation ({{% resource_link 174845f5-8616-4942-bdc2-8be856bd8061 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +198,7 @@ Stress and Strain from a Screw Dislocation ([PDF]({{< baseurl >}}/resources/lec1
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Plates ([PDF]({{< baseurl >}}/resources/lec20))
+Plates ({{% resource_link 45020c31-7f6f-f450-296a-50d9734bd5b6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +207,7 @@ Plates ([PDF]({{< baseurl >}}/resources/lec20))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Plates (cont.) ([PDF]({{< baseurl >}}/resources/lec21))
+Plates (cont.) ({{% resource_link 218a4234-ed81-c9db-c418-22f25c7d8203 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +216,7 @@ Plates (cont.) ([PDF]({{< baseurl >}}/resources/lec21))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Plates (cont.) ([PDF]({{< baseurl >}}/resources/lec22))
+Plates (cont.) ({{% resource_link 89bf387c-4efc-53db-22f3-e602308f01b8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +225,7 @@ Plates (cont.) ([PDF]({{< baseurl >}}/resources/lec22))
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Plates Summary and Fluids ([PDF]({{< baseurl >}}/resources/lec23))
+Plates Summary and Fluids ({{% resource_link ce8e49fc-8acb-1a62-ca9b-434ffba04ab7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +234,7 @@ Plates Summary and Fluids ([PDF]({{< baseurl >}}/resources/lec23))
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Fluids (cont.) ([PDF]({{< baseurl >}}/resources/lec24))
+Fluids (cont.) ({{% resource_link 909c3930-7f48-3128-0d84-cc0f950c21ef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +243,7 @@ Fluids (cont.) ([PDF]({{< baseurl >}}/resources/lec24))
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Navier Stokes Equation ([PDF]({{< baseurl >}}/resources/lec25))
+Navier Stokes Equation ({{% resource_link 86e7769e-bfc8-49ee-2996-867ca2ca668d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +252,7 @@ Navier Stokes Equation ([PDF]({{< baseurl >}}/resources/lec25))
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Growth and Decay of Boundary Undulations ([PDF]({{< baseurl >}}/resources/lec26))
+Growth and Decay of Boundary Undulations ({{% resource_link 6af80c61-15f9-9290-5cbb-88471fef83e6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +261,7 @@ Growth and Decay of Boundary Undulations ([PDF]({{< baseurl >}}/resources/lec26)
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Flow in Porous Media ([PDF]({{< baseurl >}}/resources/lec27))
+Flow in Porous Media ({{% resource_link 40ff7d34-c270-5fa8-55d8-d72ba267d095 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +270,7 @@ Flow in Porous Media ([PDF]({{< baseurl >}}/resources/lec27))
 28
 {{< tdclose >}}
 {{< tdopen >}}
-Time Dependent Porous Flow ([PDF]({{< baseurl >}}/resources/lec28))
+Time Dependent Porous Flow ({{% resource_link 88fb00fe-a85c-7908-fbf0-b7b4ce3c3107 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
