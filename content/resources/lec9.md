@@ -6,6 +6,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec9.pdf
 uid: 0193a515-5d23-8472-924c-2b5ccbddb7fd
 ---
 This resource provides information about stress rotation and possible cause of "weak" faults.
-

@@ -6,6 +6,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec11.pdf
 uid: ac4ab157-0bc6-8428-afbc-44c482f900c8
 ---
 This resource provides information about sandbox tectonics - simple theory, dry sand and the march of science revisited.
-

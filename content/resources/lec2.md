@@ -5,6 +5,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec2.pdf
 uid: c39fea48-600d-2b28-a7d4-c667999e642e
 ---
 This resource provides information about tractions (or stress vector).
-

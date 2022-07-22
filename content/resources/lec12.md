@@ -5,6 +5,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec12.pdf
 uid: 68d14b15-ed10-70aa-0b0c-77aa80699142
 ---
 This resource provides information about displacement gradients.
-

@@ -5,6 +5,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec20.pdf
 uid: 45020c31-7f6f-f450-296a-50d9734bd5b6
 ---
 This resource provides information about plates and plate theory.
-

@@ -5,6 +5,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4_2_solutions.pdf
 uid: 2388e06b-acda-053c-7a3f-752b83c46549
 ---
 This resource contains Solutions of problem set 4 and 2.
-

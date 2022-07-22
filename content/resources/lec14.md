@@ -6,6 +6,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec14.pdf
 uid: 08ab6341-1aec-9ffb-9f29-da5944896cd4
 ---
 This resource provides information about finite strain, lagrangian equation and eulerian equation.
-

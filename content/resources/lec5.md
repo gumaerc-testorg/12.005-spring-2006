@@ -7,6 +7,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec5.pdf
 uid: 908c9d2f-7ad9-d7b0-099f-6a540e59b3f2
 ---
 This resource provides information about quantities in different coordinate systems, first-order tensors, second-order tensors, Mohr?s circle and styles of faulting.
-

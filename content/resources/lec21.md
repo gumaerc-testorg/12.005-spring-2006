@@ -6,6 +6,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec21.pdf
 uid: 218a4234-ed81-c9db-c418-22f25c7d8203
 ---
 This resource provides information about plates and plate subject to an end load.
-

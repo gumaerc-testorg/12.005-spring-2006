@@ -6,6 +6,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec24.pdf
 uid: 909c3930-7f48-3128-0d84-cc0f950c21ef
 ---
 This resource provides information about fluids, material derivative, conservation of mass ? continuity equation.
-

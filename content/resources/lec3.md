@@ -7,6 +7,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec3.pdf
 uid: 5005ac6a-ec16-d031-bffb-d361c792ca70
 ---
 This resource provides information about tensors, stress tensor, the cauchy tetrahedron and traction on arbitrary planes, force balance on tetrahedron, features of the stress tensor and diffrent notations.
-

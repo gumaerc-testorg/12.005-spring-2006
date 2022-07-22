@@ -6,6 +6,7 @@ file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec18.pdf
 uid: 16cd4689-50d8-13dc-d12f-b170c96bbfeb
 ---
 This resource provides information about dislocation in elastic halfspace model of the earthquake cycle and displacements from earthquakes, fault slip, etc.
-
