@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains Solutions of problem set 2.
 file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/1c2797a6c4f98f3de413e866b2a7df4e_ps2_solutions.pdf
+file_size: 449487
 file_type: application/pdf
 learning_resource_types:
 - Assignments

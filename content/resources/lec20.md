@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information about plates and plate theory.
 file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/45020c317f6ff450296a50d9734bd5b6_lec20.pdf
+file_size: 186511
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
