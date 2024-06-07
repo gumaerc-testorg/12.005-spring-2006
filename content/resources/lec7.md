@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information about Newton?s second law.
 file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/54b8e3e532ed85689f724c47a481246b_lec7.pdf
+file_size: 143688
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

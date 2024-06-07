@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information about time dependent porous flow.
 file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/88fb00fea85c7908fbf0b7b4ce3c3107_lec28.pdf
+file_size: 209903
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
