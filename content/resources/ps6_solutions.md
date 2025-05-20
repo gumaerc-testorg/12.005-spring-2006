@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains Solutions of problem set 6.
-file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/4ada5f8cbda450cef0ca7845d34ebf28_ps6_solutions.pdf
+file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/4ada5f8cbda450cef0ca7845d34ebf28_ps6_solutions.pdf
 file_size: 136123
 file_type: application/pdf
 learning_resource_types:

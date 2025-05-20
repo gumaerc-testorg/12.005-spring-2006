@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about fluids, material derivative,
   conservation of mass ? continuity equation.
-file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/909c39307f4831280d84cc0f950c21ef_lec24.pdf
+file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/909c39307f4831280d84cc0f950c21ef_lec24.pdf
 file_size: 166030
 file_type: application/pdf
 learning_resource_types:

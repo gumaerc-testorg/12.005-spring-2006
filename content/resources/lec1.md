@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about mechanics, continuum mechanics,
   continuity, homogeneity, isotropy, stress, strain and rotation and rheology.
-file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/514aaf43891363920003616217ff27b0_lec1.pdf
+file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/514aaf43891363920003616217ff27b0_lec1.pdf
 file_size: 365463
 file_type: application/pdf
 learning_resource_types:
