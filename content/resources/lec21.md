@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about plates and plate subject to
   an end load.
-file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/218a4234ed81c9dbc41822f25c7d8203_lec21.pdf
+file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/218a4234ed81c9dbc41822f25c7d8203_lec21.pdf
 file_size: 143850
 file_type: application/pdf
 learning_resource_types:

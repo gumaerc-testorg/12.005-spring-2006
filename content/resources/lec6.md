@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about pore fluid pressure.
-file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/52e738d6c00651c1faa79eae4ac14caf_lec6.pdf
+file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/52e738d6c00651c1faa79eae4ac14caf_lec6.pdf
 file_size: 460196
 file_type: application/pdf
 learning_resource_types:

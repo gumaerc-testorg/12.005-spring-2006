@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/00cedadb3c9792a891743fecd43966f8_probset4.pdf
+file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/00cedadb3c9792a891743fecd43966f8_probset4.pdf
 file_size: 39407
 file_type: application/pdf
 learning_resource_types:
