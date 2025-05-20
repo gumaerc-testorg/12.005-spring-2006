@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about growth and decay of boundary
   undulations.
-file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/6af80c6115f992905cbb88471fef83e6_lec26.pdf
+file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/6af80c6115f992905cbb88471fef83e6_lec26.pdf
 file_size: 235686
 file_type: application/pdf
 learning_resource_types:

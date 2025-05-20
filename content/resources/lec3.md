@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about tensors, stress tensor, the
   cauchy tetrahedron and traction on arbitrary planes, force balance on tetrahedron,
   features of the stress tensor and diffrent notations.
-file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/5005ac6aec16d031bffbd361c792ca70_lec3.pdf
+file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/5005ac6aec16d031bffbd361c792ca70_lec3.pdf
 file_size: 191711
 file_type: application/pdf
 learning_resource_types:
