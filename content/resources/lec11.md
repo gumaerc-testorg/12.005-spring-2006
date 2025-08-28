@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about sandbox tectonics - simple theory,
   dry sand and the march of science revisited.
-file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/ac4ab1570bc68428afbc44c482f900c8_lec11.pdf
+file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/ac4ab1570bc68428afbc44c482f900c8_lec11.pdf
 file_size: 578817
 file_type: application/pdf
 learning_resource_types:

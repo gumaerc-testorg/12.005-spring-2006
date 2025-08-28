@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about elasticity, tensors and conventional
   moduli.
-file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/9af86e3fc5167c7cd926419fabd1cedc_lec15.pdf
+file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/9af86e3fc5167c7cd926419fabd1cedc_lec15.pdf
 file_size: 167576
 file_type: application/pdf
 learning_resource_types:
