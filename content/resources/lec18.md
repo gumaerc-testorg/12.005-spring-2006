@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about dislocation in elastic halfspace
   model of the earthquake cycle and displacements from earthquakes, fault slip, etc.
-file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/16cd468950d813dcd12fb170c96bbfeb_lec18.pdf
+file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/16cd468950d813dcd12fb170c96bbfeb_lec18.pdf
 file_size: 202708
 file_type: application/pdf
 learning_resource_types:

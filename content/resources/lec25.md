@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about Navier-Stokes equation ? dimensional
   form and Reynolds number.
-file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/86e7769ebfc849ee2996867ca2ca668d_lec25.pdf
+file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/86e7769ebfc849ee2996867ca2ca668d_lec25.pdf
 file_size: 167111
 file_type: application/pdf
 learning_resource_types:

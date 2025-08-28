@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about stress rotation and possible
   cause of "weak" faults.
-file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/0193a5155d238472924c2b5ccbddb7fd_lec9.pdf
+file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/0193a5155d238472924c2b5ccbddb7fd_lec9.pdf
 file_size: 268506
 file_type: application/pdf
 learning_resource_types:
