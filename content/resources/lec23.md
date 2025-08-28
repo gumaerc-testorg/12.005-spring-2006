@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about plates summary and fluids.
-file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/ce8e49fc8acb1a62ca9b434ffba04ab7_lec23.pdf
+file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/ce8e49fc8acb1a62ca9b434ffba04ab7_lec23.pdf
 file_size: 163885
 file_type: application/pdf
 learning_resource_types:

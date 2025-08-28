@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about stress tensor, principle stresses
   and principle axes and isotropic and deviatoric stress.
-file: /courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/659ee9f887b360ebcdd684862a2dd64c_lec4.pdf
+file: /ol-ocw-studio-app/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/659ee9f887b360ebcdd684862a2dd64c_lec4.pdf
 file_size: 313175
 file_type: application/pdf
 learning_resource_types:
